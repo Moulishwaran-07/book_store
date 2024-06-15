@@ -1,0 +1,178 @@
+@font-face {
+    font-family: RadioCanadaBigVariableFontwght;
+    src: url('../assets/font/RadioCanadaBigVariableFontwght.ttf');
+}
+.about {
+    margin-top: 40px;
+}
+
+.detail {
+    height: 450px;
+    width: 70%;
+    margin: auto;
+    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+}
+
+.tag1 {
+    display: flex;
+    justify-content: center;
+}
+
+.tag1 h2 {
+    margin-top: 20px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-size: 1.5rem;
+    color: #7f4f24;
+}
+
+.detail h3 {
+    margin-left: 50px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-size: 1.2rem;
+    color: #936639;
+}
+
+.about_para1 p {
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #4f772d;
+}
+.about_para2 p {
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 1rem;
+    color: #4f772d;
+}
+.about_para3 p {
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 1rem;
+    color: #4f772d;
+}
+.about_para4
+{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 1rem;
+    color: #4f772d;
+}
+.about_para4 p
+{
+    font-size: 0.8rem;
+    color: #e63946;
+    cursor: pointer;
+}
+.about_para4 p:hover
+{
+color: #ffd60a;
+}
+.terms {
+    margin-top: 100px;
+}
+
+.detail1 {
+    height: 450px;
+    width: 70%;
+    margin: auto;
+    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+}
+.tag2
+{
+    display: flex;
+    justify-content: center;
+}
+.tag2 h2 {
+    margin-top: 20px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-size: 1.5rem;
+    color: #7f4f24;
+}
+.term_para1 p
+{
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #4f772d;
+    font-weight: 800;
+    font-family: RadioCanadaBigVariableFontwght;
+}
+.term_para2 p
+{
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 1rem;
+    color: #4f772d;
+    font-weight: 800;
+    font-family: RadioCanadaBigVariableFontwght;
+}
+.term_para3 p
+{
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 1.1rem;
+    color: #7f4f24;
+    font-weight: 800;
+    font-family: RadioCanadaBigVariableFontwght;
+}
+.term_para4 p
+{
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #4f772d;
+    font-weight: 800;
+    font-family: RadioCanadaBigVariableFontwght;
+}
+.term_para5 p
+{
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #4f772d;
+    font-weight: 800;
+    font-family: RadioCanadaBigVariableFontwght;
+}
+.contact {
+    margin-top: 100px;
+}
+
+.detail2 {
+    height: 280px;
+    width: 70%;
+    margin: auto;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.tag3
+{
+    display: flex;
+    justify-content: center;
+}
+.tag3 h2 {
+    margin-top: 20px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-size: 1.5rem;
+    color: #7f4f24;
+}
+.detail2 .area
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.flower img
+{
+height: 250px;
+margin-top: -50px;
+margin-left: 150px;
+}

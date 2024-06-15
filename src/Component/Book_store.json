@@ -1,0 +1,1107 @@
+[
+    {
+        "id": 1,
+        "title": "Red, White & Royal Blue",
+        "price": "Price - 250",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "motivation",
+        "image": "https://www.bookswagon.com/productimages/images200/776/9781250316776.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Don't Believe Everything You Think",
+        "price": "Price - 350",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "motivation",
+        "image": "https://m.media-amazon.com/images/I/715qi-cIbML._SY466_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Who Will Cry When You Die ?",
+        "price": "Price - 400",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "motivation",
+        "image": "https://m.media-amazon.com/images/I/71yu8CAKbgL._AC_CR0%2C0%2C0%2C0_SX615_SY462_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "The Mountain Is You (Brianna Wiest)",
+        "price": "Price - 300",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "motivation",
+        "image": "https://m.media-amazon.com/images/I/41byUnftgoL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "It Starts with Us(Colleen Hoover)",
+        "price": "Price - 290",
+        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+        "category": "motivation",
+        "image": "https://www.bookswagon.com/productimages/images200/179/9781398518179.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "Do It Today (Darius Foroux)",
+        "price": "Price - 150",
+        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+        "category": "motivation",
+        "image": "https://www.bookswagon.com/productimages/images200/126/9780143452126.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "title": "Meditations(Marcus Aurelius)",
+        "price": "Price - 200",
+        "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+        "category": "motivation",
+        "image": "https://www.bookswagon.com/productimages/images200/751/9788175994751.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    },
+    {
+        "id": 8,
+        "title": "Meditations(Marcus Aurelius)",
+        "price": "Price - 550",
+        "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+        "category": "motivation",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/766/9781770831766.jpg",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "title": "Meditations(Marcus Aurelius )",
+        "price": "Price - 380",
+        "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+        "category": "motivation",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/465/9781503280465.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "Indian Polity for UPSC(M Laxmikanth)",
+        "price": "Price - 360",
+        "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+        "category": "upsc",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/341/9789355325341.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "title": "Indian Economy for UPSC",
+        "price": "Price - 160",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "upsc",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/627/9789355324627.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 12,
+        "title": "World History for UPSC ",
+        "price": "Price - 350",
+        "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+        "category": "upsc",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/266/9789355325266.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        }
+    },
+    {
+        "id": 13,
+        "title": "Believe(Suresh Raina)",
+        "price": "Price - 160",
+        "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+        "category": "life",
+        "image": "https://www.bookswagon.com/productimages/images200/335/9780143454335.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 250
+        }
+    },
+    {
+        "id": 14,
+        "title": " The Dhoni Touch ( Sundaresan Bharat)",
+        "price": "Price - 280",
+        "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+        "category": "life",
+        "image": "https://www.bookswagon.com/productimages/images200/062/9780143440062.jpg",
+        "rating": {
+            "rate": 2.2,
+            "count": 140
+        }
+    },
+    {
+        "id": 15,
+        "title": "MS Dhoni(The Magical Realist)",
+        "price": "Price - 300",
+        "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+        "category": "life",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/012/9781549879012.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 16,
+        "title": "Sultan:A Memoir(2022)",
+        "price": "Price - 320",
+        "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+        "category": "life",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/622/9789356294622.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 340
+        }
+    },
+    {
+        "id": 17,
+        "title": "How to Build a Car(Adrian Newey)",
+        "price": "Price - 460",
+        "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+        "category": "best",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/806/9780008196806.jpg",
+        "rating": {
+            "rate": 3.8,
+            "count": 679
+        }
+    },
+    {
+        "id": 18,
+        "title": "How to Talk to Anyone ",
+        "price": "Price - 230",
+        "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+        "category": "life",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/617/9780007272617.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 130
+        }
+    },
+    {
+        "id": 19,
+        "title": "Think and Grow Rich(Napoleon Hill)",
+        "price": "Price - 360",
+        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+        "category": "life",
+        "image": "https://www.bookswagon.com/productimages/images200/611/9780143453611.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    },
+    {
+        "id": 20,
+        "title": "Good Vibes, Good Life",
+        "price": "Price - 350",
+        "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+        "category": "life",
+        "image": "https://www.bookswagon.com/productimages/images200/823/9781788171823.jpg",
+        "rating": {
+            "rate": 3.6,
+            "count": 145
+        }
+    },
+    {
+        "id": 21,
+        "title": "Energize your mind(2023)",
+        "price": "Price - 560",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "life",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/288/9780143442288.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 22,
+        "title": "The Silent Patient(2019)",
+        "price": "Price - 300",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "life",
+        "image": "https://www.bookswagon.com/productimages/images200/637/9781409181637.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 23,
+        "title": "Moral Tales of Tenalirama(Tamil)",
+        "price": "Price - 150",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "kid",
+        "image": "https://www.bookswagon.com/productimages/images200/772/9789357183772.jpg",
+        "language": "tamil",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 24,
+        "title": "Moral Tales of Panchtantra in Tamil",
+        "price": "Price - 280",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "kid",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/949/9789357183949.jpg",
+        "language": "tamil",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 25,
+        "title": "Moral Tales of Arabian Knight",
+        "price": "Price - 120",
+        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+        "category": "kid",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/505/9789357183505.jpg",
+        "language": "tamil",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 26,
+        "title": "Moral Tales of Akbar Birbal in Tamil",
+        "price": "Price - 160",
+        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+        "category": "kid",
+        "image": "https://www.bookswagon.com/productimages/images200/017/9789357183017.jpg",
+        "language": "tamil",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 27,
+        "title": "அக்பர் / Akbar(N. Chokkan)",
+        "price": "Price - 200",
+        "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+        "category": "kid",
+        "image": "https://www.bookswagon.com/productimages/images200/817/9788184937817.jpg",
+        "language": "tamil",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    },
+    {
+        "id": 28,
+        "title": "Mahatma Gandhi Kolai Vazhakku",
+        "price": "Price - 220",
+        "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+        "category": "best",
+        "image": "https://www.bookswagon.com/productimages/images200/967/9788184935967.jpg",
+        "language": "tamil",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 29,
+        "title": "Never Finished(David Goggins)",
+        "price": "Price - 160",
+        "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+        "category": "best",
+        "image": "https://www.bookswagon.com/productimages/images200/077/9781544534077.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 30,
+        "title": "You Only Live Once(2020)",
+        "price": "Price - 300",
+        "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+        "category": "life",
+        "image": "https://www.bookswagon.com/productimages/images200/581/9780143453581.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 31,
+        "title": "Ponniyin Selvan 1 (Kalki)",
+        "price": "Price - 350",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "best",
+        "image": "https://www.bookswagon.com/productimages/images200/024/9789388860024.jpg",
+        "language": "tamil",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 32,
+        "title": "Ponniyin Selvan 2 (Kalki)",
+        "price": "Price - 460",
+        "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+        "category": "best",
+        "image": "https://www.bookswagon.com/productimages/images200/093/9789388860093.jpg",
+        "language": "tamil",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        }
+    },
+    {
+        "id": 33,
+        "title": "Ponniyin Selvan 3 (Kalki)",
+        "price": "Price - 150",
+        "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+        "category": "best",
+        "image": "https://www.bookswagon.com/productimages/images200/734/9789388860734.jpg",
+        "language": "tamil",
+        "rating": {
+            "rate": 2.9,
+            "count": 250
+        }
+    },
+    {
+        "id": 34,
+        "title": "Ponniyin Selvan 4 (Kalki)",
+        "price": "Price - 180",
+        "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+        "category": "best",
+        "image": "https://www.bookswagon.com/productimages/images200/416/9788194973416.jpg",
+        "language": "tamil",
+        "rating": {
+            "rate": 2.2,
+            "count": 140
+        }
+    },
+    {
+        "id": 35,
+        "title": "Ponniyin Selvan 5 (Kalki)",
+        "price": "Price - 260",
+        "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+        "category": "best",
+        "image": "https://www.bookswagon.com/productimages/images200/423/9788194973423.jpg",
+        "language": "tamil",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 36,
+        "title": "The Hidden Hindu(Akshat Gupta)",
+        "price": "Price - 190",
+        "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+        "category": "best",
+        "language": "hindi",
+        "image": "https://www.bookswagon.com/productimages/mainimages/792/9789355213792.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 340
+        }
+    },
+    {
+        "id": 37,
+        "title": "365 Panchatantra Stories Hindi",
+        "price": "Price - 250",
+        "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+        "category": "best",
+        "language": "hindi",
+        "image": "https://www.bookswagon.com/productimages/mainimages/800/9789381607800.jpg",
+        "rating": {
+            "rate": 3.8,
+            "count": 679
+        }
+    },
+    {
+        "id": 38,
+        "title": "Kundalini: An Untold Story (Hindi)",
+        "price": "Price - 300",
+        "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+        "category": "best",
+        "image": "https://www.bookswagon.com/productimages/images200/968/9789386348968.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 130
+        }
+    },
+    {
+        "id": 39,
+        "title": "The World's Best Inspiring Stories",
+        "price": "Price - 400",
+        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+        "category": "best",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/972/9788184955972.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    },
+    {
+        "id": 40,
+        "title": "The Everest Girl (Hindi)",
+        "price": "Price - 460",
+        "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+        "category": "best",
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/114/9789355433114.jpg",
+        "rating": {
+            "rate": 3.6,
+            "count": 145
+        }
+    },
+    {
+        "id": 41,
+        "title": "White Nights (Dostoyevsky)",
+        "price": "Price - 550",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "trending_book",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450699039l/1772910.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 42,
+        "title": "Ugly Love( Colleen Hoover )",
+        "price": "Price - 400",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "trending_book",
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781476753188/ugly-love-9781476753188_lg.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 43,
+        "title": "The Death Of Ivan Ilych",
+        "price": "Price - 420",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "trending_book",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663546974i/18386.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 44,
+        "title": "The Setting Sun (Osamu Dazai)",
+        "price": "Price - 300",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "trending_book",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385206185i/194740.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 45,
+        "title": "Gasienica(Polish Edition)",
+        "price": "Price - 350",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "trending_book",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574454051l/50177005.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 46,
+        "title": "Howards End( E.M. Forster)",
+        "price": "Price - 250",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "trending_book",
+        "image": "https://m.media-amazon.com/images/I/812NWwe+z5L._SY466_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 47,
+        "title": "The FarmHouse (Elizabeth Bromke)",
+        "price": "Price - 320",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "trending_book",
+        "image": "https://m.media-amazon.com/images/I/71YrW2oeROL._SY466_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 48,
+        "title": "Shelter A Novel (Robin Merrill)",
+        "price": "Price - 520",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "trending_book",
+        "image": "https://m.media-amazon.com/images/I/41pYE38EUtL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 49,
+        "title": "Danielle Steel (Neighbors)",
+        "price": "Price - 400",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "trending_book",
+        "image": "https://m.media-amazon.com/images/I/51+u49wAqpL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 50,
+        "title": "Nicholas Sparks (DREAMLAND)",
+        "price": "Price - 550",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "trending_book",
+        "image": "https://m.media-amazon.com/images/I/41q30qdduRL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 51,
+        "title": "The Great Train Journey",
+        "price": "Price - 500",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "best",
+        "image": "https://m.media-amazon.com/images/I/71Gvw8G5vRL._SY466_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 52,
+        "title": "Dr.APJ Abdul Kalam life story",
+        "price": "Price - 400",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "life",
+        "image": "https://m.media-amazon.com/images/I/71VOI-r3IKL._SY466_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 53,
+        "title": "The Great Unexpected ",
+        "price": "Price - 420",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "best",
+        "image": "https://m.media-amazon.com/images/I/51d1YRIqI3L._SY466_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 54,
+        "title": "The Ruskin Bond (Adventure)",
+        "price": "Price - 300",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/81CUj+c8grL._SY466_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 55,
+        "title": "The Cherry Tree (Ruskin Bond)",
+        "price": "Price - 450",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/71AZqOnX3mL._SY466_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 56,
+        "title": "THE BLUE UMBRELLA ",
+        "price": "Price - 280",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/81T4LtzWm4L._SY466_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 57,
+        "title": "You Can(George Matthew Adams)",
+        "price": "Price - 320",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "best",
+        "image": "https://m.media-amazon.com/images/I/61aJc8wQX4L._SY466_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 58,
+        "title": "Treasure Island (2013)",
+        "price": "Price - 520",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "best",
+        "image": "https://m.media-amazon.com/images/I/710K9pWWZ+L._SY466_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 59,
+        "title": "The Goods Train Mystery",
+        "price": "Price - 400",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "best",
+        "image": "https://m.media-amazon.com/images/I/71K0wQ4IDHL._AC_UY327_FMwebp_QL65_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 60,
+        "title": "The Magic of the Temple",
+        "price": "Price - 510",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/61dfbTg-ztL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 61,
+        "title": "Grandma's Bag of Stories",
+        "price": "Price - 300",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/91xAvyJmUUL._SY466_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 62,
+        "title": "108 Bedtime Stories (Maple Press)",
+        "price": "Price - 400",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/51JhpvGUyoL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 63,
+        "title": "GREAT STORIES FOR CHILD ",
+        "price": "Price - 320",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/81BNrA1kNLL._SY466_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 64,
+        "title": "Lots of Jokes for Kids (Whee Winn)",
+        "price": "Price - 300",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/41ASGuMGqaL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 65,
+        "title": "BRAIN GAMES FOR KIDS",
+        "price": "Price - 450",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/81lmGXLmjuL._SY466_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 66,
+        "title": "GETTING GRANNY GLASSE ",
+        "price": "Price - 280",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/51vUKLm9mQL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 67,
+        "title": "Princesses Wonder House Books ",
+        "price": "Price - 320",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/51OQNf4AhuL._SX342_SY445_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 68,
+        "title": "ANGRY RIVER (Ruskin Bond)",
+        "price": "Price - 520",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/51ObgCe3oaL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 69,
+        "title": "Train Your Angry Dragon",
+        "price": "Price - 400",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/51t6BdBXp1L._SX342_SY445_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 70,
+        "title": "Oh, The Places You’ll Go!",
+        "price": "Price - 510",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/51HH8nsUDSL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 71,
+        "title": "A Burger to Believe In",
+        "price": "Price - 1110",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "cook",
+        "image": "https://m.media-amazon.com/images/I/41-l6T9FfJL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 72,
+        "title": "The Essential Kerala Cook",
+        "price": "Price - 900",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "cook",
+        "image": "https://m.media-amazon.com/images/I/41JrClXy5vL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "CURRIES-Kerala Cook",
+        "price": "Price - 700",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "cook",
+        "image": "https://m.media-amazon.com/images/I/61xU98iBTmL._SX342_SY445_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "The Gastroparesis Cookbook",
+        "price":"Price - 550",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "cook",
+        "image": "https://m.media-amazon.com/images/I/71U1EPyll+L._SY385_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "On The Kebab Trail A Moti Mahal Cook",
+        "price": "Price - 710",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "cook",
+        "image": "https://m.media-amazon.com/images/I/41vHBFoMiQL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "Something I Never Told You ",
+        "price": "Price - 600",
+        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+        "category": "best",
+        "image": "https://m.media-amazon.com/images/I/91PQFpYWLwL._SY466_.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "International Relations UPSC",
+        "price": "Price - 450",
+        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+        "category": "upsc",
+        "image": "https://m.media-amazon.com/images/I/51ESD-eQMNL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "title": "Ghost Of Malabar FICTION BOOK",
+        "price":"Price - 300",
+        "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+        "category": "kid",
+        "image": "https://m.media-amazon.com/images/I/719MYm88v7L._SY466_.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    },
+    {
+        "id": 8,
+        "title": "A SURVEY OF KERALA HISTORY",
+        "price": "Price - 340",
+        "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+        "category": "best",
+        "image": "https://m.media-amazon.com/images/I/41xk0YY1-ML._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "title": "Kerala’s Āyurvedic Tradition and Sanskrit",
+        "price": "Price - 650",
+        "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+        "category": "trending_book",
+        "image": "https://m.media-amazon.com/images/I/71JloypKSwL._SY466_.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "A Heartfelt Love Story",
+        "price": "Price - 850",
+        "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+        "category": "love",
+        "image": "https://m.media-amazon.com/images/I/81CfWKjcMvL._SY466_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "title": "I Too Had A Love Story ",
+        "price": "Price - 760",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "love",
+        "image": "https://m.media-amazon.com/images/I/51pK8dvveeL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 12,
+        "title": "You are the Best Wife. True love",
+        "price": "Price - 810",
+        "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+        "category": "love",
+        "image": "https://m.media-amazon.com/images/I/41F9cYp6mcL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        }
+    },
+    {
+        "id": 13,
+        "title": "Write Me A Love Story",
+        "price": "Price - 450",
+        "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+        "category": "love",
+        "image": "https://m.media-amazon.com/images/I/61m7NkjfDXL._SY466_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 250
+        }
+    },
+    {
+        "id": 14,
+        "title": "A Love Story by Destiny",
+        "price": "Price - 350",
+        "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+        "category": "love",
+        "image": "https://m.media-amazon.com/images/I/51XyaBYUURL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.2,
+            "count": 140
+        }
+    },
+    {
+        "id": 15,
+        "title": "Her One True Love: A Novel ",
+        "price": "Price - 910",
+        "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+        "category": "love",
+        "image": "https://m.media-amazon.com/images/I/41vyr3G+v-L._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 16,
+        "title": "She Fell to Rise in Love",
+        "price": "Price - 550",
+        "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+        "category": "love",
+        "image": "https://m.media-amazon.com/images/I/41lfg5USjsL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 340
+        }
+    },
+    {
+        "id": 17,
+        "title": "Plop: A Horror Short Story",
+        "price": "Price - 650",
+        "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+        "category": "ghost",
+        "image": "https://m.media-amazon.com/images/I/81U6F6IaPzL._SY466_.jpg",
+        "rating": {
+            "rate": 3.8,
+            "count": 679
+        }
+    },
+    {
+        "id": 18,
+        "title": "The Haunting of Delhi City",
+        "price": "Price - 1150",
+        "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+        "category": "ghost",
+        "image": "https://m.media-amazon.com/images/I/81ggXazp+-L._SY466_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 130
+        }
+    },
+    {
+        "id": 19,
+        "title": "The Girl in the Glass Case",
+        "price": "Price - 950",
+        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+        "category": "ghost",
+        "image": "https://m.media-amazon.com/images/I/41Dr37NRrNL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    },
+    {
+        "id": 20,
+        "title": "THE HORROR STORIES (HINDI) ",
+        "price": "Price - 550",
+        "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+        "category": "ghost",
+        "image": "https://m.media-amazon.com/images/I/619lYakKv6L._SY466_.jpg",
+        "rating": {
+            "rate": 3.6,
+            "count": 145
+        }
+    }
+]

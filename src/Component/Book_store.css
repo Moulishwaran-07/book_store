@@ -1,0 +1,324 @@
+@font-face {
+    font-family: BookMockup;
+    src: url('../assets/font/BookMockup.otf');
+}
+@font-face {
+    font-family: ArapeyItalic;
+    src: url("../assets/font/ArapeyItalic.ttf");
+}
+@font-face {
+    font-family: PTSerifItalic;
+    src: url("../assets/font/PTSerifItalic.ttf");
+}
+.book_store h1 {
+    font-family: ArapeyItalic;
+    font-weight: 700;
+    font-size: 2.4rem;
+    text-align: center;
+    color: #E85D04;
+    margin-top: 0px;
+}
+
+
+
+.cart_icon {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+    margin-top: -70px;
+}
+
+.cart_icon .heart {
+    margin-top: 8px;
+    margin-right: 20px;
+    cursor: pointer;
+
+}
+
+/* .cart_icon img {
+    height: 48px;
+    width: 56px;
+    margin-top: -70px;
+    margin-right: 23px;
+    cursor: pointer;
+} */
+
+
+.sort .sort1 {
+    margin-left: 80%;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    font-size: 1.2rem;
+    color: #E85D04;
+    margin-top: 50px;
+}
+
+select[name="area"] {
+    margin-left: 85%;
+    height: 30px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+    border: 3px solid #ffd60a;
+    color: #E85D04;
+
+}
+
+option[value="relevance"],
+option[value="low"],
+option[value="high"] {
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 0.9rem;
+    border: 3px solid #ffd60a;
+   
+
+}
+
+.sort .by {
+    margin-top: -70px;
+}
+
+.parts {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 20px;
+
+}
+
+.option {
+    width: 310px;
+    background-color: white;
+    border-right: 3px solid #e85d04;
+
+}
+
+.tit {
+    background-color: #ffd60a;
+    padding-left: 20px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 800;
+    font-size: 1.2rem;
+    margin-top: 0px;
+    height: 30px;
+    padding-top: 5px;
+}
+
+.dot1 {
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+.dot2 {
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.dot3 {
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.dot4 {
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.dot5 {
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.dot6 {
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+input[type="radio"] {
+    height: 15px;
+    width: 15px;
+    accent-color: #E85D04;
+    margin-left: 0px;
+    margin-top: 12px;
+    cursor: pointer;
+}
+
+.lan {
+    background-color: #ffd60a;
+    padding-left: 20px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 800;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    height: 30px;
+    padding-top: 5px;
+}
+
+input[type="checkbox"] {
+    height: 14px;
+    width: 14px;
+    accent-color: #E85D04;
+    margin-left: 0px;
+    margin-top: 12px;
+    cursor: pointer;
+}
+
+.che1 {
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+.che2 {
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.che3 {
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.che4 {
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.cart .Books {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 10px;
+    margin-left: -420px;
+    row-gap: 50px;
+}
+
+.All_book {
+    width: 200px;
+    height: 360px;
+    padding: 20px;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.All_book:hover {
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.All_book .books_cart {
+    width: 170px;
+    height: 35px;
+    margin-left: 14px;
+    margin-top: -20px;
+    cursor: pointer;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 0.9rem;
+    word-spacing: 4px;
+    color: #ae2012;
+    background-color: #fff;
+    border: 2px solid #f48c06;
+    padding-left: 25px;
+    background-image: url('../assets/icon/btn.png');
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 15px;
+}
+
+.All_book .books_cart:hover {
+    background-color: #fff;
+    color: #e85d04;
+    border: 2px solid #f48c06;
+}
+
+.All_book img {
+    height: 210px;
+    width: 160px;
+    margin-left: 20px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 8px;
+}
+
+
+.All_book h2 {
+    font-size: 1rem;
+    font-family: PTSerifItalic;
+    font-weight: 900;
+    margin-left: 22px;
+    width: 160px;
+    color: #7f4f24;
+}
+
+.All_book h4 {
+    font-size: 0.9rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    margin-left: 22px;
+    color: #7209b7;
+    cursor: pointer;
+}
+
+h4:hover {
+    color: #ba181b;
+}
+
+.All_book .fav {
+    margin-left: 90px;
+    margin-top: -77px;
+    border: none;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 0.8rem;
+    background-image: url("../assets/icon/add.png");
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 9px;
+    padding-left: 30px;
+    padding-top: -20px;
+    height: 30px;
+}
+
+.All_book span {
+    display: none;
+}
+
+.All_book .pop {
+    border: none;
+    color: #ffc300;
+    font-size: 1rem;
+    margin-left: 10px;
+    background-color: green;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    cursor: pointer;
+}

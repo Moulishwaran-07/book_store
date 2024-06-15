@@ -1,0 +1,1 @@
+export const Store_API="https://664460536c6a6565870a1fa5.mockapi.io/book_store"

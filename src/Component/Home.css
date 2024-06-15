@@ -1,0 +1,349 @@
+@font-face {
+    font-family: CrimsonTextBoldItalic;
+    src: url('../assets/font/CrimsonTextBoldItalic.ttf');
+}
+
+@font-face {
+    font-family: RadioCanadaBigVariableFontwght;
+    src: url('../assets/font/RadioCanadaBigVariableFontwght.ttf');
+}
+
+body {
+    background-color: white;
+}
+
+
+
+
+.banners img {
+    width: 100%;
+   
+}
+
+.head1 {
+    display: flex;
+    justify-content: center;
+}
+
+.head1 h3 {
+    font-size: 2rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    color: #f6bd60;
+    cursor: pointer;
+}
+
+h3:hover {
+    color: #03045e;
+}
+
+.trend_book {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 10px;
+    margin-left: -0px;
+    row-gap: 20px;
+
+}
+
+.book1 {
+    width: 250px;
+    height: 400px;
+    padding: 20px;
+    overflow: hidden;
+
+}
+
+.book1:hover {
+    
+    background-color: #f5f3f4;
+    border-radius: 15px;
+}
+
+.book1 .book1_cart {
+    width: 176px;
+    height: 35px;
+    cursor: pointer;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1.1rem;
+    word-spacing: 4px;
+    color: #ae2012;
+    background-color: #fff;
+    border: 2px solid #a68a64;
+    margin-left: 37px;
+    margin-top: -40px;
+    padding-left: 25px;
+    background-image: url('../assets/icon/collection.png');
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 25px;
+}
+
+.book1 .book1_cart:hover {
+    background-color: #fff;
+    color: #e85d04;
+    border: 2px solid #f48c06;
+}
+
+
+
+.book1 img {
+    height: 270px;
+    margin-left: 37px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 8px;
+}
+
+.book1 h2 {
+    font-size: 1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    margin-left: 37px;
+}
+
+.book1 h4 {
+    font-size: 1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    margin-left: 80px;
+    color: #03045e;
+    cursor: pointer;
+}
+/* 
+.book1 .fav {
+    margin-left: 130px;
+    margin-top: -85px;
+    border: none;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+} */
+
+h4:hover {
+    color: #ae2012;
+}
+
+.head2 {
+    display: flex;
+    justify-content: center;
+}
+
+.head2 h3 {
+    font-size: 2rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    color: #f6bd60;
+    cursor: pointer;
+}
+
+h3:hover {
+    color: #03045e;
+}
+
+.trend_banner img {
+
+    width: 100%;
+}
+
+.good_story {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 10px;
+    margin-left: -0px;
+    margin-top: 60px;
+    row-gap: 20px;
+}
+
+.book2 {
+    width: 250px;
+    height: 400px;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.book2:hover {
+   
+    background-color: #f5f3f4;
+    border-radius: 15px;
+}
+
+.book2 .book2_cart {
+    width: 176px;
+    height: 35px;
+    cursor: pointer;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1.1rem;
+    word-spacing: 4px;
+    color: #ae2012;
+    background-color: #fff;
+    border: 2px solid #a68a64;
+    margin-left: 37px;
+    margin-top: -40px;
+    padding-left: 25px;
+    background-image: url('../assets/icon/collection.png');
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 25px;
+}
+
+.book2 .book2_cart:hover {
+    background-color: #fff;
+    color: #e85d04;
+    border: 2px solid #f48c06;
+}
+
+/* .book2 .fav {
+    margin-left: 130px;
+    margin-top: -85px;
+    border: none;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+} */
+
+.book2 img {
+    height: 270px;
+    margin-left: 37px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 8px;
+}
+
+.book2 h2 {
+    font-size: 1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    margin-left: 37px;
+}
+
+.book2 h4 {
+    font-size: 1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    margin-left: 37px;
+    color: #03045e;
+    cursor: pointer;
+}
+
+h4:hover {
+    color: #ae2012;
+}
+
+.head3 {
+    display: flex;
+    justify-content: center;
+}
+
+.head3 h3 {
+    font-size: 2rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    color: #f6bd60;
+    cursor: pointer;
+}
+
+h3:hover {
+    color: #03045e;
+}
+
+.Kids_banner img {
+
+    width: 100%;
+
+}
+
+.kids_story {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 10px;
+    margin-left: -0px;
+    margin-top: 60px;
+    row-gap: 20px;
+}
+
+.book3 {
+    width: 250px;
+    height: 400px;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.book3:hover {
+   
+    background-color: #f5f3f4;
+    border-radius: 15px;
+}
+
+.book3 .book3_cart {
+    width: 176px;
+    height: 35px;
+    cursor: pointer;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    font-size: 1.1rem;
+    word-spacing: 4px;
+    color: #ae2012;
+    background-color: #fff;
+    border: 2px solid #a68a64;
+    margin-left: 37px;
+    margin-top: -40px;
+    padding-left: 25px;
+    background-image: url('../assets/icon/collection.png');
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 25px;
+}
+
+.book3 .book3_cart:hover {
+    background-color: #fff;
+    color: #e85d04;
+    border: 2px solid #f48c06;
+}
+
+/* .book3 .fav {
+    margin-left: 130px;
+    margin-top: -85px;
+    border: none;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+} */
+
+.book3 img {
+    height: 270px;
+    margin-left: 37px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 8px;
+}
+
+.book3 h2 {
+    font-size: 1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    margin-left: 37px;
+}
+
+.book3 h4 {
+    font-size: 1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    margin-left: 37px;
+    color: #03045e;
+    cursor: pointer;
+}
+
+h4:hover {
+    color: #ae2012;
+}
+
+.front_page .line1 {
+    height: 2px;
+    width: 100%;
+    background-color: #ffd60a;
+    border: none;
+    margin-top: 50px;
+}
+
+
+
+
+
+@media all and (max-width:480px) {}

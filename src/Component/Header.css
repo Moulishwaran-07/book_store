@@ -1,0 +1,235 @@
+@font-face {
+    font-family: CrimsonTextBoldItalic;
+    src: url('../assets/font/CrimsonTextBoldItalic.ttf');
+}
+
+@font-face {
+    font-family: RadioCanadaBigVariableFontwght;
+    src: url('../assets/font/RadioCanadaBigVariableFontwght.ttf');
+}
+
+body {
+    background-color: white;
+}
+
+.top_bar {
+    background-color: #fcf6bd;
+    height: 40px;
+    margin-top: -8px;
+    width: 100%;
+    margin-left: 0px;
+}
+
+.top_bar span {
+    padding-left: 180px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    color: black;
+    font-family: RadioCanadaBigVariableFontwght;
+}
+
+.move {
+    padding-top: 10px;
+}
+
+.top_bar {
+
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.move {
+
+    animation: 18s myanimate infinite linear;
+    display: inline-block;
+
+}
+
+@keyframes myanimate {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(-100%);
+    }
+}
+
+.top {
+    height: 50px;
+    position: relative;
+    /* display: flex;
+    justify-content: space-around; */
+}
+
+.top img {
+    width: 190px;
+    margin-left: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+input[type="text"] {
+    height: 28px;
+    width: 31%;
+    margin-left: 100px;
+    margin-top: 20px;
+    position: absolute;
+    padding-left: 5px;
+    font-size: 0.9rem;
+    border: 2px solid #ffd60a;
+    outline: none;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+}
+
+.search {
+    height: 34px;
+    width: 40px;
+    background-color: #ffd60a;
+    border: none;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 576px;
+    background-image: url('../assets/icon/search.png');
+    background-repeat: no-repeat;
+    background-size: 28px;
+    background-position: 5px;
+    padding-top: 10px;
+    outline: none;
+    cursor: pointer;
+}
+
+.sign_btn {
+    font-size: 1.3rem;
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 91%;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 700;
+    cursor: pointer;
+    background-image: url('../assets/icon/user.png');
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 80px;
+    width: 110px;
+
+}
+
+.sign_btn:hover {
+    color: #ffd60a;
+}
+
+.nav {
+    margin-top: 40px;
+}
+
+.nav button {
+    border: none;
+    background-color: white;
+    /* margin-left: 40px; */
+    padding-left: 50px;
+    font-size: 1.1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.nav button:hover {
+    color: #ffd60a;
+}
+
+
+
+.navigation hr {
+    height: 2px;
+    width: 100%;
+    background-color: #ffd60a;
+    border: none;
+}
+
+
+
+@media all and (max-width:480px) {
+    .top img {
+        width: 150px;
+        margin-left: 110px;
+        margin-top: 10px;
+        cursor: pointer;
+    }
+
+    input[type="text"] {
+        margin-top: 60px;
+        margin-left: -240px;
+        width: 270px;
+    }
+
+    .search {
+        margin-left: 40px;
+        margin-top: 60px;
+    }
+
+    .sign_btn {
+        margin-top: 50px;
+        margin-left: 280px;
+        font-size: 0.8rem;
+        background-size: 18px;
+        background-position: 50px;
+    }
+
+    .nav {
+        margin-top: 70px;
+        position: relative;
+        width: 100%;
+    }
+
+    .nav button {
+        border: none;
+        background-color: white;
+        /* margin-left: 40px; */
+        padding-left: 0px;
+        font-size: 0.7rem;
+        font-family: RadioCanadaBigVariableFontwght;
+        font-weight: 600;
+        cursor: pointer;
+        width: 130px;
+       
+
+    }
+
+    .nav .btn00 {
+        margin-left: -40px;
+        position: absolute;
+        overflow: hidden;
+        margin-top: 5px;
+    }
+
+    .nav .btn01 {
+        margin-left: 40px;
+        margin-top: 5px;
+        position: absolute;
+        overflow: hidden;
+    }
+
+    .nav .btn02 {
+        margin-left:150px;
+        margin-top: 5px;
+        position: absolute;
+        overflow: hidden;
+    }
+
+    .nav .btn03 {
+        margin-left: 260px;
+        margin-top: 5px;
+        position: absolute;
+    }
+
+    .navigation hr {
+        height: 2px;
+        width: 100%;
+        background-color: #ffd60a;
+        border: none;
+        margin-top: 100px;
+    }
+}

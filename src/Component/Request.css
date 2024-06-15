@@ -1,0 +1,264 @@
+@font-face {
+    font-family: RadioCanadaBigVariableFontwght;
+    src: url('../assets/font/RadioCanadaBigVariableFontwght.ttf');
+}
+
+.request {
+    margin-top: 40px;
+}
+
+.form {
+    height: 600px;
+    width: 70%;
+    margin: auto;
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+}
+
+.form .dream_name {
+    display: flex;
+    justify-content: center;
+}
+
+.form img {
+    height: 40px;
+
+}
+
+.form .req01 {
+    font-size: 1.4rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    margin-left: 60px;
+    margin-top: 5px;
+    color: #ffba08;
+}
+
+.form p {
+    font-size: 0.9rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    margin-left: 60px;
+    margin-top: -7px;
+    color: #e85d04;
+}
+
+.available {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 40px;
+}
+
+.part1 h4 {
+    margin-left: 20px;
+    font-size: 1.1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    color: #6a040f;
+}
+
+input[type="text1"] {
+    width: 80%;
+    height: 35px;
+    margin-left: 20px;
+    font-size: 1rem;
+    padding-left: 40px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    border: white;
+    border-bottom: 3px solid #6a040f;
+    outline: none;
+    background-image: url("../assets/icon/no.png");
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: 5px;
+
+}
+
+
+
+input[type="text1"]:focus {
+    border-bottom: 3px solid #d00000;
+    outline: none;
+}
+
+.opt1 h4 {
+    margin-left: 20px;
+    font-size: 1.1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    color: #6a040f;
+}
+
+input[type="text2"] {
+    width: 80%;
+    height: 35px;
+    margin-left: 20px;
+    font-size: 1rem;
+    padding-left: 40px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    border: white;
+    border-bottom: 3px solid #6a040f;
+    outline: none;
+    background-image: url("../assets/icon/author.png");
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 5px;
+}
+
+
+
+input[type="text2"]:focus {
+    border-bottom: 3px solid #d00000;
+    outline: none;
+}
+
+.opt2 h4 {
+    margin-left: 20px;
+    font-size: 1.1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    color: #6a040f;
+}
+
+input[type="text3"] {
+    width: 80%;
+    height: 35px;
+    margin-left: 20px;
+    font-size: 1rem;
+    padding-left: 40px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    border: white;
+    border-bottom: 3px solid #6a040f;
+    outline: none;
+    background-image: url("../assets/icon/mail.png");
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 5px
+}
+
+
+
+input[type="text3"]:focus {
+    border-bottom: 3px solid #d00000;
+    outline: none;
+}
+
+.part2 h4 {
+    margin-left: 20px;
+    font-size: 1.1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    color: #6a040f;
+}
+
+input[type="text4"] {
+    width: 80%;
+    height: 35px;
+    margin-left: 20px;
+    font-size: 1rem;
+    padding-left: 40px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    border: white;
+    border-bottom: 3px solid #6a040f;
+    outline: none;
+    background-image: url("../assets/icon/book.png");
+    background-repeat: no-repeat;
+    background-size: 22px;
+    background-position: 5px
+}
+
+
+
+input[type="text4"]:focus {
+    border-bottom: 3px solid #d00000;
+    outline: none;
+}
+
+.opt3 h4 {
+    margin-left: 20px;
+    font-size: 1.1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    color: #6a040f;
+}
+
+input[type="number"] {
+    width: 80%;
+    height: 35px;
+    margin-left: 20px;
+    font-size: 1rem;
+    padding-left: 40px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    border: white;
+    border-bottom: 3px solid #6a040f;
+    outline: none;
+    background-image: url("../assets/icon/count.png");
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 5px
+}
+
+
+input[type="number"]:focus {
+    border-bottom: 3px solid #d00000;
+    outline: none;
+}
+
+.opt4 h4 {
+    margin-left: 20px;
+    font-size: 1.1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    color: #6a040f;
+}
+
+input[type="text5"] {
+    width: 80%;
+    height: 35px;
+    margin-left: 20px;
+    font-size: 1rem;
+    padding-left: 40px;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 600;
+    border: white;
+    border-bottom: 3px solid #6a040f;
+    outline: none;
+    background-image: url("../assets/icon/mobile.png");
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 5px
+}
+
+
+
+input[type="text5"]:focus {
+    border-bottom: 3px solid #d00000;
+    outline: none;
+}
+
+.part2 .submit {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.submit .submit_btn {
+    height: 40px;
+    width: 100px;
+    margin-right: 75px;
+    margin-top: 20px;
+    border: 2px solid #656d4a;
+    color: #31572c;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: white;
+    cursor: pointer;
+}
+
+.submit .submit_btn:hover {
+    color: white;
+    background-color: #d00000;
+    border: 3px solid #ffba08;
+}
+
+.available .errorPara {
+    margin-left: 50px;
+    margin-top: 0px;
+}

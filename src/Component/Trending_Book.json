@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "White Nights",
+        "price": "Price - 550",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "trending_book",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450699039l/1772910.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Ugly Love",
+        "price": "Price - 400",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "trending_book",
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781476753188/ugly-love-9781476753188_lg.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "The Death Of Ivan Ilych",
+        "price": "Price - 420",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "trending_book",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663546974i/18386.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "The Setting Sun",
+        "price": "Price - 300",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "trending_book",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385206185i/194740.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "Gasienica",
+        "price": "Price - 350",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "trending_book",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574454051l/50177005.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 6,
+        "title": "Howards End",
+        "price": "Price - 250",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "trending_book",
+        "image": "https://m.media-amazon.com/images/I/812NWwe+z5L._SY466_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 7,
+        "title": "The FarmHouse",
+        "price": "Price - 320",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "trending_book",
+        "image": "https://m.media-amazon.com/images/I/71YrW2oeROL._SY466_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 8,
+        "title": "Shelter A Novel",
+        "price": "Price - 520",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "trending_book",
+        "image": "https://m.media-amazon.com/images/I/41pYE38EUtL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 9,
+        "title": "Danielle Steel",
+        "price": "Price - 400",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "trending_book",
+        "image": "https://m.media-amazon.com/images/I/51+u49wAqpL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 10,
+        "title": "Nicholas Sparks",
+        "price": "Price - 550",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "trending_book",
+        "image": "https://m.media-amazon.com/images/I/41q30qdduRL._SY445_SX342_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    }
+]

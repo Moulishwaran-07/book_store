@@ -1,0 +1,124 @@
+@font-face {
+    font-family: CrimsonTextBoldItalic;
+    src: url('../assets/font/CrimsonTextBoldItalic.ttf');
+}
+
+@font-face {
+    font-family: RadioCanadaBigVariableFontwght;
+    src: url('../assets/font/RadioCanadaBigVariableFontwght.ttf');
+}
+.Footer
+{
+    margin-top: 60px;
+}
+.top_bar {
+    background-color: #fcf6bd;
+    height: 40px;
+    margin-top: -8px;
+    width: 100%;
+    margin-left: 0px;
+}
+
+.top_bar span {
+    padding-left: 180px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    color: black;
+}
+
+.move {
+    padding-top: 10px;
+}
+
+.top_bar {
+
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.move {
+
+    animation: 18s myanimate infinite linear;
+    display: inline-block;
+
+}
+
+@keyframes myanimate {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(-100%);
+    }
+}
+.Foot_image img
+{
+    width: 100%;
+    height: 230px;
+    margin-top: 10px;
+}
+.Foot_design
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: #e9ecef;
+    margin-top: 15px;
+    column-gap: 350px;
+    
+}
+.links
+{
+    margin-left: 70px;
+}
+.links h1
+{
+    font-family: RadioCanadaBigVariableFontwght;
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+.about h1
+{
+    font-family: RadioCanadaBigVariableFontwght;
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-left: 70px;
+    margin-top: -20px;
+}
+.brand h1
+{
+    font-family: RadioCanadaBigVariableFontwght;
+    font-size: 1.4rem; 
+    font-weight: 700;
+}
+
+.links h3
+{
+    font-family: RadioCanadaBigVariableFontwght;
+    font-size: 1rem; 
+    margin-left: 20px;
+    margin-top: 5px;
+    font-weight: 800;
+    color: #231942;
+    cursor: pointer;
+}
+.links h3:hover
+{
+    color:#ffd60a;
+}
+.about p
+{
+    width: 260px;
+    font-size: 1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 800;
+    color: #231942;
+
+}
+.brand img
+{
+    margin-left: 50px;
+    cursor: pointer;
+    
+}
