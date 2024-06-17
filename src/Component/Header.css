@@ -18,15 +18,17 @@ body {
     margin-top: -8px;
     width: 100%;
     margin-left: 0px;
+    overflow: hidden;
 }
 
 .top_bar span {
-    padding-left: 180px;
+    /* padding-left: 180px; */
     font-size: 1rem;
     font-weight: 600;
     cursor: pointer;
     color: black;
     font-family: RadioCanadaBigVariableFontwght;
+    overflow: hidden;
 }
 
 .move {
@@ -43,6 +45,7 @@ body {
 
     animation: 18s myanimate infinite linear;
     display: inline-block;
+    
 
 }
 
@@ -52,7 +55,7 @@ body {
     }
 
     to {
-        transform: translateX(-100%);
+        transform: translateX(100%);
     }
 }
 
@@ -157,17 +160,20 @@ input[type="text"] {
         margin-left: 110px;
         margin-top: 10px;
         cursor: pointer;
+        overflow: hidden;
     }
 
     input[type="text"] {
         margin-top: 60px;
         margin-left: -240px;
         width: 270px;
+        overflow: hidden;
     }
 
     .search {
         margin-left: 40px;
         margin-top: 60px;
+        overflow: hidden;
     }
 
     .sign_btn {
@@ -176,12 +182,14 @@ input[type="text"] {
         font-size: 0.8rem;
         background-size: 18px;
         background-position: 50px;
+        overflow: hidden;
     }
 
     .nav {
         margin-top: 70px;
         position: relative;
         width: 100%;
+       
     }
 
     .nav button {
@@ -203,6 +211,7 @@ input[type="text"] {
         position: absolute;
         overflow: hidden;
         margin-top: 5px;
+        
     }
 
     .nav .btn01 {

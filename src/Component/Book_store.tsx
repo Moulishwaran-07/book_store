@@ -19,6 +19,7 @@ import Button0 from '@mui/material/Button';
 import Snackbar0 from '@mui/material/Snackbar';
 import Alert from '@mui/material/Alert';
 import Home from "./Homepage";
+import Foot from "./Footer";
 
 
 function Best() {
@@ -64,6 +65,7 @@ function Best() {
                 aria-label="close"
                 color="inherit"
                 onClick={handleClose}
+                
             >
                 <CloseIcon fontSize="medium" />
             </IconButton>
@@ -82,8 +84,8 @@ function Best() {
             right: -3,
             top: 1,
             border: `1px solid ${theme.palette.background.paper}`,
-            padding: '0 4px',
-
+            padding: '0 5px',
+            
         },
     }));
 
@@ -115,7 +117,7 @@ function Best() {
                         <FavoriteIcon color="warning" fontSize="large" />
                     </Badge1>
                     <IconButton1 aria-label="cart">
-                        <StyledBadge badgeContent={cart} color="primary">
+                        <StyledBadge badgeContent={cart} color="success">
                             <ShoppingCartIcon color="warning" fontSize="large" />
                         </StyledBadge>
                     </IconButton1>
@@ -199,23 +201,19 @@ function Best() {
                                 <input
                                     type="checkbox"
                                     name="checkbox"
+                                    onClick={() => filterItems("english")}
                                 >
-                                </input>Hindi
+                                </input>English
                             </div>
                             <div className="che3">
                                 <input
                                     type="checkbox"
                                     name="checkbox"
+                                    onClick={() => filterItems("hindi")}
                                 >
-                                </input>English
+                                </input>Hindi
                             </div>
-                            <div className="che4">
-                                <input
-                                    type="checkbox"
-                                    name="checkbox"
-                                >
-                                </input>Malayalam
-                            </div>
+                          
                         </div>
                     </div>
                     <div className="cart">
@@ -258,7 +256,7 @@ function Best() {
                         </div>
                     </div>
                 </div>
-
+<Foot></Foot>
             </div>
         </>
     )
