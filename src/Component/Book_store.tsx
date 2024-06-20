@@ -65,7 +65,7 @@ function Best() {
                 aria-label="close"
                 color="inherit"
                 onClick={handleClose}
-                
+
             >
                 <CloseIcon fontSize="medium" />
             </IconButton>
@@ -85,7 +85,7 @@ function Best() {
             top: 1,
             border: `1px solid ${theme.palette.background.paper}`,
             padding: '0 5px',
-            
+
         },
     }));
 
@@ -126,11 +126,11 @@ function Best() {
                     <h6 className="sort1">Sort By : </h6>
                     <form className="by">
                         <select name="area">
-                           
+
                             <option value="relevance">Relevance</option>
                             <option value="low">Price - Low To High</option>
                             <option value="high">Price - High To Low</option>
-                          
+
                         </select>
                     </form>
                 </div>
@@ -186,6 +186,22 @@ function Best() {
                                 >
                                 </input>Life Story Book
                             </div>
+                            <div className="dot7">
+                                <input
+                                    type="radio"
+                                    name="book"
+                                    onClick={() => filterItems("love")}
+                                >
+                                </input>Love Story Book
+                            </div>
+                            <div className="dot8">
+                                <input
+                                    type="radio"
+                                    name="book"
+                                    onClick={() => filterItems("cook")}
+                                >
+                                </input>Cooking Recipe Book
+                            </div>
                         </div>
                         <div className="cat2">
                             <h3 className="lan">Language</h3>
@@ -213,7 +229,7 @@ function Best() {
                                 >
                                 </input>Hindi
                             </div>
-                          
+
                         </div>
                     </div>
                     <div className="cart">
@@ -256,7 +272,7 @@ function Best() {
                         </div>
                     </div>
                 </div>
-<Foot></Foot>
+                <Foot></Foot>
             </div>
         </>
     )
