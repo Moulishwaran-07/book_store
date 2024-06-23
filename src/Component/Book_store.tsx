@@ -198,6 +198,14 @@ function Best() {
                                 <input
                                     type="radio"
                                     name="book"
+                                    onClick={() => filterItems("ghost")}
+                                >
+                                </input>Ghost Story Book
+                            </div>
+                            <div className="dot9">
+                                <input
+                                    type="radio"
+                                    name="book"
                                     onClick={() => filterItems("cook")}
                                 >
                                 </input>Cooking Recipe Book

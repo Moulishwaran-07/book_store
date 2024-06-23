@@ -118,14 +118,21 @@
 }
 
 @media all and (max-width:480px) {
+    .Foot_design
+    {
+       
+       overflow: hidden;
+    }
     .links {
         margin-left: 0px;
+        
     }
 
     .links h1 {
         font-size: 0.8rem;
         width: 100px;
         margin-left: 5px;
+       
     }
 
     .links h3 {
@@ -136,6 +143,7 @@
         font-weight: 800;
         color: #231942;
         cursor: pointer;
+      
     }
 
     .about h1 {
@@ -143,6 +151,7 @@
         font-size: 0.8rem;
         width: 100px;
         margin-top: -30px;
+       
     }
 
     .about p {
@@ -153,17 +162,20 @@
         color: #231942;
         margin-left: -320px;
         text-align: justify;
+       
     }
 
     .brand h1 {
         margin-left: -530px;
         font-size: 0.8rem;
         width: 100px;
+       
     }
 
     .brand img {
         margin-left: 50px;
         cursor: pointer;
         margin-left: -510px;
+       
     }
 }

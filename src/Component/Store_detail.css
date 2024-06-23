@@ -183,3 +183,56 @@
     margin-top: -50px;
     margin-left: 150px;
 }
+
+
+@media all and (max-width:480px) {
+    .detail h3 {
+        margin-left: 15px;
+    }
+
+    .about_para1 p {
+        margin-left: 15px;
+        font-size: 0.8rem;
+    }
+    .about_para2 p 
+    {
+        margin-left: 15px;
+        font-size: 0.8rem;
+    }
+    .about_para3 p 
+    {
+        margin-left: 15px;
+        font-size: 0.8rem;
+    }
+    .about_para4 {
+        display: none;
+    }
+    .terms
+    {
+        margin-top: 200px;
+    }
+    .term_para1 p{
+        margin-left: 15px;
+        font-size: 0.8rem;
+    }
+    .term_para2 p{
+        margin-left: 15px;
+        font-size: 0.8rem;
+    }
+    .term_para3 p{
+        margin-left: 15px;
+        font-size: 0.8rem;
+    }
+    .term_para4 p{
+        margin-left: 15px;
+        font-size: 0.8rem;
+    }
+    .term_para5 p{
+        margin-left: 15px;
+        font-size: 0.8rem;
+    }
+    .contact
+    {
+        margin-top: 300px;
+    }
+}

@@ -1,4 +1,3 @@
-
 @font-face {
     font-family: CrimsonTextBoldItalic;
     src: url('../assets/font/CrimsonTextBoldItalic.ttf');
@@ -46,7 +45,7 @@ body {
 
     animation: 18s myanimate infinite linear;
     display: inline-block;
-    
+
 
 }
 
@@ -156,12 +155,17 @@ input[type="text"] {
 
 
 @media all and (max-width:480px) {
+
+
+
+
     .top img {
         width: 150px;
         margin-left: 110px;
         margin-top: 10px;
         cursor: pointer;
         overflow: hidden;
+       
     }
 
     input[type="text"] {
@@ -184,6 +188,8 @@ input[type="text"] {
         background-size: 18px;
         background-position: 50px;
         overflow: hidden;
+
+        width: 100px;
     }
 
     .nav {
@@ -197,13 +203,13 @@ input[type="text"] {
         border: none;
         background-color: white;
         /* margin-left: 40px; */
-        padding-left: 0px;
+        padding-left: 15px;
         font-size: 0.7rem;
         font-family: RadioCanadaBigVariableFontwght;
         font-weight: 600;
         cursor: pointer;
-        width: 130px;
-       
+        width: 120px;
+        overflow: hidden;
 
     }
 
@@ -212,7 +218,7 @@ input[type="text"] {
         position: absolute;
         overflow: hidden;
         margin-top: 5px;
-        
+
     }
 
     .nav .btn01 {
@@ -223,7 +229,7 @@ input[type="text"] {
     }
 
     .nav .btn02 {
-        margin-left:150px;
+        margin-left: 150px;
         margin-top: 5px;
         position: absolute;
         overflow: hidden;

@@ -8,7 +8,7 @@
 }
 
 .form {
-    height: 600px;
+    height: 800px;
     width: 70%;
     margin: auto;
     /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
@@ -261,4 +261,162 @@ input[type="text5"]:focus {
 .available .errorPara {
     margin-left: 50px;
     margin-top: 0px;
+}
+
+
+@media all and (max-width:480px) {
+    .form img {
+        height: 35px;
+    }
+
+    .form .req01 {
+        font-size: 1rem;
+        font-family: RadioCanadaBigVariableFontwght;
+        margin-left: 0px;
+        margin-top: 30px;
+        color: #ffba08;
+    }
+
+    .form p {
+        font-size: 0.7rem;
+        font-family: RadioCanadaBigVariableFontwght;
+        font-weight: 600;
+        margin-left: 0px;
+        margin-top: -7px;
+        color: #e85d04;
+    }
+
+    .available {
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-left: 40px;
+    }
+
+    .part1 {
+        margin-left: -60px;
+    }
+
+    .part2 {
+        margin-left: -60px;
+
+    }
+
+    .part1 h4 {
+        margin-left: 20px;
+        font-size: 0.9rem;
+        font-family: RadioCanadaBigVariableFontwght;
+        color: #6a040f;
+    }
+
+    input[type="text1"] {
+        width: 75%;
+        height: 30px;
+        margin-left: 20px;
+        font-size: 1rem;
+        padding-left: 40px;
+        font-family: RadioCanadaBigVariableFontwght;
+        font-weight: 600;
+        border: white;
+        border-bottom: 3px solid #6a040f;
+        outline: none;
+        background-image: url("../assets/icon/no.png");
+        background-repeat: no-repeat;
+        background-size: 25px;
+        background-position: 5px;
+        margin-top: -10px;
+    }
+
+    input[type="text2"] {
+        width: 75%;
+        height: 30px;
+        margin-left: 20px;
+        font-size: 1rem;
+        padding-left: 40px;
+        font-family: RadioCanadaBigVariableFontwght;
+        font-weight: 600;
+        border: white;
+        border-bottom: 3px solid #6a040f;
+        outline: none;
+        background-image: url("../assets/icon/author.png");
+        background-repeat: no-repeat;
+        background-size: 23px;
+        background-position: 5px;
+        margin-top: -10px;
+    }
+
+    input[type="text3"] {
+        width: 75%;
+        height: 30px;
+        margin-left: 20px;
+        font-size: 1rem;
+        padding-left: 40px;
+        font-family: RadioCanadaBigVariableFontwght;
+        font-weight: 600;
+        border: white;
+        border-bottom: 3px solid #6a040f;
+        outline: none;
+        background-image: url("../assets/icon/mail.png");
+        background-repeat: no-repeat;
+        background-size: 20px;
+        background-position: 5px;
+        margin-top: -10px;
+    }
+    .part2 h4 {
+        margin-left: 20px;
+        font-size: 0.9rem;
+        font-family: RadioCanadaBigVariableFontwght;
+        color: #6a040f;
+    }
+    input[type="text4"] {
+        width: 75%;
+        height: 30px;
+        margin-left: 20px;
+        font-size: 1rem;
+        padding-left: 40px;
+        font-family: RadioCanadaBigVariableFontwght;
+        font-weight: 600;
+        border: white;
+        border-bottom: 3px solid #6a040f;
+        outline: none;
+        background-image: url("../assets/icon/book.png");
+        background-repeat: no-repeat;
+        background-size: 19px;
+        background-position: 5px
+    }
+    input[type="number"] {
+        width: 75%;
+        height: 30px;
+        margin-left: 20px;
+        font-size: 1rem;
+        padding-left: 40px;
+        font-family: RadioCanadaBigVariableFontwght;
+        font-weight: 600;
+        border: white;
+        border-bottom: 3px solid #6a040f;
+        outline: none;
+        background-image: url("../assets/icon/count.png");
+        background-repeat: no-repeat;
+        background-size: 22px;
+        background-position: 5px
+    }
+    input[type="text5"] {
+        width: 75%;
+        height: 30px;
+        margin-left: 20px;
+        font-size: 1rem;
+        padding-left: 40px;
+        font-family: RadioCanadaBigVariableFontwght;
+        font-weight: 600;
+        border: white;
+        border-bottom: 3px solid #6a040f;
+        outline: none;
+        background-image: url("../assets/icon/mobile.png");
+        background-repeat: no-repeat;
+        background-size: 22px;
+        background-position: 5px
+    }
+    .part2 .submit {
+        display: flex;
+        justify-content: flex-end;
+    }
 }
