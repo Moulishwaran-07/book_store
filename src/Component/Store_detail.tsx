@@ -64,7 +64,13 @@ function Fiction() {
                         </div>
                         <div className="area">
                             <div className="address">
-                                
+                               
+                                <h6 className="addr1">+91 8250301648</h6>
+                                <h6 className="addr2">www.dreampagestore.com</h6>
+                                <h6 className="addr3">763, ASP Complex<br></br>
+                                    Vinobha Street,Thalavaipettai <br></br>
+                                    Erode District -638001
+                                </h6>
                             </div>
                             <div className="flower">
                                 <img src={png}></img>

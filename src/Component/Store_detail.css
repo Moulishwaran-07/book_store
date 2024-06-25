@@ -2,7 +2,10 @@
     font-family: RadioCanadaBigVariableFontwght;
     src: url('../assets/font/RadioCanadaBigVariableFontwght.ttf');
 }
-
+.All
+{
+   
+}
 .about {
     margin-top: 40px;
 }
@@ -151,14 +154,14 @@
 }
 
 .contact {
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 .detail2 {
     height: 280px;
     width: 70%;
     margin: auto;
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
 }
 
 .tag3 {
@@ -178,10 +181,57 @@
     grid-template-columns: 1fr 1fr;
 }
 
+.area .address {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.address .addr1 {
+    font-size: 1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 800;
+    margin-top: 0px;
+    padding-left: 30px;
+    background-image: url(../assets/icon/land.png);
+    background-position: 0px;
+    background-size: 22px;
+    background-repeat: no-repeat;
+    color: #b5842f;
+    cursor: pointer;
+}
+
+.address .addr2 {
+    font-size: 1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 800;
+    margin-top: 0px;
+    padding-left: 30px;
+    background-image: url(../assets/icon/mail.png);
+    background-repeat: no-repeat;
+    background-size: 19px;
+    background-position: 0px;
+    color: #b5842f;
+    cursor: pointer;
+}
+
+.address .addr3 {
+    font-size: 1rem;
+    font-family: RadioCanadaBigVariableFontwght;
+    font-weight: 800;
+    margin-top: 0px;
+    padding-left: 30px;
+    background-image: url(../assets/icon/location.png);
+    background-position: 25px 0px 0px 0px;
+    background-repeat: no-repeat;
+    background-size: 23px;
+    color: #b5842f;
+    cursor: pointer;
+}
+
 .flower img {
     height: 250px;
-    margin-top: -50px;
-    margin-left: 150px;
+    margin-top: -30px;
+    margin-left: 220px;
 }
 
 
@@ -194,45 +244,77 @@
         margin-left: 15px;
         font-size: 0.8rem;
     }
-    .about_para2 p 
-    {
+
+    .about_para2 p {
         margin-left: 15px;
         font-size: 0.8rem;
     }
-    .about_para3 p 
-    {
+
+    .about_para3 p {
         margin-left: 15px;
         font-size: 0.8rem;
     }
+
     .about_para4 {
         display: none;
     }
-    .terms
-    {
+
+    .terms {
         margin-top: 200px;
     }
-    .term_para1 p{
+
+    .term_para1 p {
         margin-left: 15px;
         font-size: 0.8rem;
     }
-    .term_para2 p{
+
+    .term_para2 p {
         margin-left: 15px;
         font-size: 0.8rem;
     }
-    .term_para3 p{
+
+    .term_para3 p {
         margin-left: 15px;
         font-size: 0.8rem;
     }
-    .term_para4 p{
+
+    .term_para4 p {
         margin-left: 15px;
         font-size: 0.8rem;
     }
-    .term_para5 p{
+
+    .term_para5 p {
         margin-left: 15px;
         font-size: 0.8rem;
     }
-    .contact
+
+    .contact {
+        margin-top: 250px;
+        height:350px;
+    }
+    .detail2 .area {
+        display: grid;
+        grid-template-columns:1fr;
+    }
+    .area .address {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .address .addr1
     {
-        margin-top: 300px;
+        font-size: 0.8rem;
+    }
+    .address .addr2
+    {
+        font-size: 0.8rem;
+    }
+    .address .addr3
+    {
+        font-size: 0.8rem;
+    }
+    .flower img {
+        height: 130px;
+        margin-top: 0px;
+        margin-left: 60px;
     }
 }
