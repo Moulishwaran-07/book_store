@@ -2,8 +2,7 @@ import { useState, useMemo } from "react";
 import Head from "./Header";
 import books from './Book_store.json'
 import './Book_store.css'
-import carti from "../assets/icon/cart_icon.png"
-import heart from '../assets/icon/heart.png'
+
 import Button from '@mui/material/Button';
 import Snackbar from '@mui/material/Snackbar';
 import IconButton from '@mui/material/IconButton';
@@ -18,7 +17,7 @@ import FavoriteIcon from '@mui/icons-material/Favorite';
 import Button0 from '@mui/material/Button';
 import Snackbar0 from '@mui/material/Snackbar';
 import Alert from '@mui/material/Alert';
-import Home from "./Homepage";
+
 import Foot from "./Footer";
 
 
@@ -274,7 +273,7 @@ function Best() {
                                             Your Item Added To Cart <button className="pop">VIEW</button>
                                         </Alert>
                                     </Snackbar0>
-                                    {/* <button className="books_cart" onClick={() => setCart(cart + 1)}>Add To Cart</button> */}
+                                   
                                 </div>
                             })}
                         </div>

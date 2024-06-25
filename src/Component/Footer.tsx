@@ -1,6 +1,6 @@
-import React from "react";
+
 import './Footer.css'
-import banner from '../assets/banner/banner1.jpg'
+
 import brand from '../assets/brand/icon.png'
 import { useNavigate } from "react-router-dom";
 
@@ -33,9 +33,7 @@ function Foot() {
                         <span>#Best-Selling2024 "The Silent Patient"</span><span>"#New Collection Books"</span><span>"#Trending Book"</span><span>"#New Story Book"</span>
                     </div>
                 </div>
-                {/* <div className="Foot_image">
-                    <img src={banner}></img>
-                </div> */}
+              
                 <div className="Foot_design">
                     <div className="links">
                         <h1>QUICK LINKS</h1>

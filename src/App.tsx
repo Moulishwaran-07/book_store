@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 import Home from './Component/Homepage'
 import Book from './Component/Book_store';
 import Head from './Component/Header';
@@ -14,7 +14,7 @@ import {
 
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
 
 

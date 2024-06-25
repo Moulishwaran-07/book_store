@@ -2,10 +2,7 @@
     font-family: RadioCanadaBigVariableFontwght;
     src: url('../assets/font/RadioCanadaBigVariableFontwght.ttf');
 }
-.All
-{
-   
-}
+
 .about {
     margin-top: 40px;
 }
@@ -14,7 +11,7 @@
     height: 450px;
     width: 70%;
     margin: auto;
-    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+    
 }
 
 .tag1 {
@@ -88,7 +85,7 @@
     height: 450px;
     width: 70%;
     margin: auto;
-    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+    
 }
 
 .tag2 {
