@@ -372,16 +372,16 @@ h4:hover {
 
 
 @media all and (max-width:480px) {
-   
+
     .head1 h3 {
         font-size: 1.3rem;
-        
+
     }
 
     .trend_book {
         display: grid;
         grid-template-columns: 1fr 1fr;
-       
+
     }
 
     .book1 {
@@ -389,19 +389,22 @@ h4:hover {
         height: 260px;
         padding: 20px;
         overflow: hidden;
-        
+
     }
+
     .book1:hover {
 
         background-color: white;
         border-radius: 15px;
     }
+
     .book1 img {
         height: 160px;
+        width: 120px;
         margin-left: 10px;
         cursor: pointer;
         box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 8px;
-       
+
     }
 
     .book1 h2 {
@@ -410,7 +413,7 @@ h4:hover {
         font-weight: 900;
         margin-left: 10px;
         color: #7f4f24;
-        
+
     }
 
     .book1 h4 {
@@ -420,7 +423,7 @@ h4:hover {
         margin-left: 10px;
         color: #7209b7;
         cursor: pointer;
-        
+
     }
 
     .book1 .book1_cart {
@@ -431,42 +434,46 @@ h4:hover {
         background-repeat: no-repeat;
         background-size: 15px;
         background-position: 18px;
-       
+
     }
-    .head2 h3
-    {
-        font-size: 1.3rem;  
+
+    .head2 h3 {
+        font-size: 1.3rem;
         margin-top: 5px;
-       
+
     }
-    .front_page .line1
-    {
+
+    .front_page .line1 {
         margin-top: 10px;
     }
-    .good_story
-    {
+
+    .good_story {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        
+
     }
+
     .book2 {
         width: 130px;
         height: 260px;
         padding: 20px;
         overflow: hidden;
-       
+
     }
+
     .book2:hover {
 
         background-color: white;
         border-radius: 15px;
     }
+
     .book2 img {
         height: 160px;
         margin-left: 10px;
         cursor: pointer;
         box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 8px;
     }
+
     .book2 h2 {
         font-size: 0.8rem;
         font-family: PTSerifItalic;
@@ -483,6 +490,7 @@ h4:hover {
         color: #7209b7;
         cursor: pointer;
     }
+
     .book2 .book2_cart {
         width: 120px;
         margin-left: 10px;
@@ -492,15 +500,17 @@ h4:hover {
         background-size: 15px;
         background-position: 18px;
     }
+
     .head3 h3 {
         font-size: 1.3rem;
     }
-    .kids_story
-    {
+
+    .kids_story {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        
+
     }
+
     .book3 {
         width: 130px;
         height: 260px;
@@ -508,17 +518,20 @@ h4:hover {
         overflow: hidden;
 
     }
+
     .book3:hover {
 
         background-color: white;
         border-radius: 15px;
     }
+
     .book3 img {
         height: 160px;
         margin-left: 10px;
         cursor: pointer;
         box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 8px;
     }
+
     .book3 h2 {
         font-size: 0.8rem;
         font-family: PTSerifItalic;
@@ -535,6 +548,7 @@ h4:hover {
         color: #7209b7;
         cursor: pointer;
     }
+
     .book3 .book3_cart {
         width: 120px;
         margin-left: 10px;
@@ -543,5 +557,109 @@ h4:hover {
         background-repeat: no-repeat;
         background-size: 15px;
         background-position: 18px;
+    }
+}
+@media all and (min-width:500px) and (max-width:850px)
+{
+    .trend_book {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-left: -50px;
+        overflow: hidden;
+        
+    }
+    .book1 {
+        width: 230px;
+        height: 400px;
+        padding: 20px;
+        overflow: hidden;
+    
+    }
+    .good_story {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-left: -50px;
+        overflow: hidden;
+    }
+    .book2 {
+        width: 230px;
+        height: 400px;
+        padding: 20px;
+        overflow: hidden;
+    }
+    .kids_story {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-left: -50px;
+        overflow: hidden;
+    }
+    .book3 {
+        width: 230px;
+        height: 400px;
+        padding: 20px;
+        overflow: hidden;
+    }
+}
+@media all and (min-width:850px) and (max-width:900px)
+{
+    .trend_book {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-left: 0px;
+        overflow: hidden;
+        
+    }
+    .book1 {
+        width: 230px;
+        height: 400px;
+        padding: 20px;
+        overflow: hidden;
+    
+    }
+    .good_story {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-left: 0px;
+        overflow: hidden;
+    }
+    .book2 {
+        width: 230px;
+        height: 400px;
+        padding: 20px;
+        overflow: hidden;
+    }
+    .kids_story {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-left: 0px;
+        overflow: hidden;
+    }
+    .book3 {
+        width: 230px;
+        height: 400px;
+        padding: 20px;
+        overflow: hidden;
+    }
+}
+@media all and (min-width:920px) and (max-width:1300px)
+{
+    .trend_book {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        margin-left: 0px;
+        overflow: hidden;
+        
+    }
+    .good_story {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        margin-left: 0px;
+        overflow: hidden;
+    }
+    .kids_story {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        margin-left: 0px;
+        overflow: hidden;
     }
 }

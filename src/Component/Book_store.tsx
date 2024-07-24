@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react";
+import { useState,} from "react";
 import Head from "./Header";
 import books from './Book_store.json'
 import './Book_store.css'
@@ -46,7 +46,7 @@ function Best() {
         setOpen(true);
     };
 
-    const handleClose = (event: React.SyntheticEvent | Event, reason?: string) => {
+    const handleClose = (_event: React.SyntheticEvent | Event, reason?: string) => {
         if (reason === 'clickaway') {
             return;
         }
@@ -72,10 +72,10 @@ function Best() {
     );
 
     const [count, setCount] = useState<number>(0)
-    const [arra, setArr] = useState<number[]>([1, 2, 3, 4, 5])
+    // const [arra, setArr] = useState<number[]>([1, 2, 3, 4, 5])
 
     const [cart, setCart] = useState<number>(0)
-    const [arr, setArra] = useState<number[]>([1, 2, 3, 4, 5])
+    // const [arr, setArra] = useState<number[]>([1, 2, 3, 4, 5])
 
 
     const StyledBadge = styled(Badge)<BadgeProps>(({ theme }) => ({
@@ -94,7 +94,7 @@ function Best() {
         setOpen0(true);
     };
 
-    const handleClose0 = (event?: React.SyntheticEvent | Event, reason?: string) => {
+    const handleClose0 = (_event?: React.SyntheticEvent | Event, reason?: string) => {
         if (reason === 'clickaway') {
             return;
         }
@@ -121,7 +121,7 @@ function Best() {
                         </StyledBadge>
                     </IconButton1>
                 </div>
-                <div className="sort">
+                {/* <div className="sort">
                     <h6 className="sort1">Sort By : </h6>
                     <form className="by">
                         <select name="area">
@@ -132,11 +132,19 @@ function Best() {
 
                         </select>
                     </form>
-                </div>
+                </div> */}
                 <div className="parts">
                     <div className="option">
                         <div className="cat1">
                             <h3 className="tit">Dreamy Page Books</h3>
+                            <div className="dot0">
+                                <input
+                                    type="radio"
+                                    name="book"
+                                    onClick={() => setBooks(books)}
+                                >
+                                </input>All Book
+                            </div>
                             <div className="dot1">
                                 <input
                                     type="radio"
@@ -273,7 +281,7 @@ function Best() {
                                             Your Item Added To Cart <button className="pop">VIEW</button>
                                         </Alert>
                                     </Snackbar0>
-                                   
+
                                 </div>
                             })}
                         </div>

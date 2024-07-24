@@ -2,7 +2,7 @@ import { useNavigate } from "react-router-dom";
 import Head from "./Header";
 import './Store_detail.css'
 import Foot from "./Footer";
-import png from '../assets/icon/png.png'
+import png from '../assets/banner/shop.jpg'
 function Fiction() {
 
     const navigate14= useNavigate()

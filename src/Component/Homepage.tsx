@@ -11,68 +11,40 @@ import template2 from '../assets/banner/template2.jpg'
 import { useNavigate } from "react-router-dom";
 import Head from "./Header";
 import Foot from "./Footer";
-import * as React from 'react';
-import Button from '@mui/material/Button';
-import IconButton from '@mui/material/IconButton';
-import CloseIcon from '@mui/icons-material/Close';
+
 
 
 
 
 function Home() {
-    const [Trending, setTrending] = useState(trend)
-    const filterItems = (item: any) => {
+    const [Trending] = useState(trend)
+    // const filterItems = (item: any) => {
 
-        const updateItem = trend.filter((e: any) => {
-            return e.category === item
-        })
-        setTrending(updateItem)
-    }
-    const [GoodStory, setGoodStory] = useState(Good)
-    const filterItem1 = (item: any) => {
+    //     const updateItem = trend.filter((e: any) => {
+    //         return e.category === item
+    //     })
+    //  setTrending(updateItem)
+    // }
+    const [GoodStory] = useState(Good)
+    // const filterItem1 = (item: any) => {
 
-        const updateItem = Good.filter((e: any) => {
-            return e.category === item
-        })
-        setGoodStory(updateItem)
-    }
-    const [KidsStory, setKidsStory] = useState(Kids)
-    const filterItem2 = (item: any) => {
+    //     const updateItem = Good.filter((e: any) => {
+    //         return e.category === item
+    //     })
+    //     setGoodStory(updateItem)
+    // }
+    const [KidsStory] = useState(Kids)
+    // const filterItem2 = (item: any) => {
 
-        const updateItem = Kids.filter((e: any) => {
-            return e.category === item
-        })
-        setKidsStory(updateItem)
-    }
-    const [open, setOpen] = React.useState(false);
+    //     const updateItem = Kids.filter((e: any) => {
+    //         return e.category === item
+    //     })
+    //     setKidsStory(updateItem)
+    // }
+    
 
-    const handleClick = () => {
-        setOpen(true);
-    };
+   
 
-    const handleClose = (event: React.SyntheticEvent | Event, reason?: string) => {
-        if (reason === 'clickaway') {
-            return;
-        }
-
-        setOpen(false);
-    };
-
-    const action = (
-        <React.Fragment>
-            <Button color="warning" size="large" onClick={handleClose}>
-                View
-            </Button>
-            <IconButton
-                size="small"
-                aria-label="close"
-                color="inherit"
-                onClick={handleClose}
-            >
-                <CloseIcon fontSize="medium" />
-            </IconButton>
-        </React.Fragment>
-    );
 
     const navigate13 = useNavigate()
     const cart1 = () => { navigate13("/Book") }

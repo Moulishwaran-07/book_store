@@ -229,6 +229,7 @@
     height: 250px;
     margin-top: -30px;
     margin-left: 220px;
+   
 }
 
 
@@ -313,5 +314,51 @@
         height: 130px;
         margin-top: 0px;
         margin-left: 60px;
+    }
+}
+@media all and (min-width:500px) and (max-width:850px)
+{
+    .about_para4 {
+        display: none;
+    }
+    .contact {
+        margin-top: 120px;
+        height:350px;
+    }
+    .detail2 .area {
+        display: grid;
+        grid-template-columns:1fr 1fr;
+    }
+    .address .addr3
+    {
+        width: 300px;
+    }
+    .flower img {
+        height: 230px;
+        margin-top: -10px;
+        margin-left: 0px;
+    }
+}
+@media all and (min-width:850px) and (max-width:900px)
+{
+    .about_para4 {
+        display: none;
+    }
+    .contact {
+        margin-top: 120px;
+        height:350px;
+    }
+    .detail2 .area {
+        display: grid;
+        grid-template-columns:1fr 1fr;
+    }
+    .address .addr3
+    {
+        width: 300px;
+    }
+    .flower img {
+        height: 230px;
+        margin-top: -10px;
+        margin-left: 0px;
     }
 }

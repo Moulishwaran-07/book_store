@@ -112,84 +112,101 @@ option[value="high"] {
     color: #ae2012;
 }
 
-.dot1 {
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
+.dot0 {
+    font-family: PTSerifItalic;
+    font-weight: 900;
     font-size: 1rem;
     margin-top: -10px;
     margin-left: 10px;
+    color: #9d0208;
+}
+
+.dot1 {
+    font-family: PTSerifItalic;
+    font-weight: 900;
+    font-size: 1rem;
+    margin-top: 5px;
+    margin-left: 10px;
+    color: #9d0208;
 }
 
 .dot2 {
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
+    font-family: PTSerifItalic;
+    font-weight: 900;
     font-size: 1rem;
     margin-left: 10px;
     margin-top: 5px;
+    color: #9d0208;
 }
 
 .dot3 {
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
+    font-family: PTSerifItalic;
+    font-weight: 900;
     font-size: 1rem;
     margin-left: 10px;
     margin-top: 5px;
+    color: #9d0208;
 }
 
 .dot4 {
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
+    font-family: PTSerifItalic;
+    font-weight: 900;
     font-size: 1rem;
     margin-left: 10px;
     margin-top: 5px;
+    color: #9d0208;
 }
 
 .dot5 {
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
+    font-family: PTSerifItalic;
+    font-weight: 900;
     font-size: 1rem;
     margin-left: 10px;
     margin-top: 5px;
+    color: #9d0208;
 }
 
 .dot6 {
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
+    font-family: PTSerifItalic;
+    font-weight: 900;
     font-size: 1rem;
     margin-left: 10px;
     margin-top: 5px;
+    color: #9d0208;
 }
 
 .dot7 {
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
+    font-family: PTSerifItalic;
+    font-weight: 900;
     font-size: 1rem;
     margin-left: 10px;
     margin-top: 5px;
+    color: #9d0208;
 }
 
 .dot8 {
 
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
+    font-family: PTSerifItalic;
+    font-weight: 900;
     font-size: 1rem;
     margin-left: 10px;
     margin-top: 5px;
+    color: #9d0208;
 }
 
 .dot9 {
-
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
+    font-family: PTSerifItalic;
+    font-weight: 900;
     font-size: 1rem;
     margin-left: 10px;
     margin-top: 5px;
+    color: #9d0208;
 }
 
 input[type="radio"] {
     height: 15px;
     width: 15px;
-    accent-color: #E85D04;
+    accent-color: #8338ec;
     margin-left: 0px;
     margin-top: 12px;
     cursor: pointer;
@@ -209,43 +226,40 @@ input[type="radio"] {
 input[type="checkbox"] {
     height: 14px;
     width: 14px;
-    accent-color: #E85D04;
+    accent-color: #5f0f40;
     margin-left: 0px;
     margin-top: 12px;
     cursor: pointer;
 }
 
 .che1 {
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
+    font-family: PTSerifItalic;
+    font-weight: 900;
     font-size: 1rem;
     margin-top: -10px;
     margin-left: 10px;
+    color: #dc2f02;
 }
 
 .che2 {
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
+    font-family: PTSerifItalic;
+    font-weight: 900;
     font-size: 1rem;
     margin-left: 10px;
     margin-top: 5px;
+    color: #dc2f02;
 }
 
 .che3 {
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
+    font-family: PTSerifItalic;
+    font-weight: 900;
     font-size: 1rem;
     margin-left: 10px;
     margin-top: 5px;
+    color: #dc2f02;
 }
 
-.che4 {
-    font-family: RadioCanadaBigVariableFontwght;
-    font-weight: 700;
-    font-size: 1rem;
-    margin-left: 10px;
-    margin-top: 5px;
-}
+
 
 .cart .Books {
     display: grid;
@@ -355,4 +369,131 @@ h4:hover {
     font-family: RadioCanadaBigVariableFontwght;
     font-weight: 600;
     cursor: pointer;
+}
+
+@media all and (max-width:480px) {
+    .option {
+        display: none;
+    }
+
+    .book_store h1 {
+        font-family: ArapeyItalic;
+        font-weight: 600;
+        font-size: 1.5rem;
+        text-align: center;
+        color: #E85D04;
+        margin-top: 0px;
+    }
+
+    .cart_icon {
+        display: flex;
+        justify-content: flex-end;
+        margin-right: 5px;
+        margin-top: 25px;
+        height: 0px;
+    }
+
+    .cart_icon .heart {
+        margin-top: -10px;
+        margin-right: 10px;
+        cursor: pointer;
+    }
+
+    .sort {
+        display: none;
+    }
+
+    .cart .Books {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+
+    .All_book {
+        width: 140px;
+        height: 360px;
+        padding: 20px;
+        overflow: hidden;
+
+    }
+
+    .All_book:hover {
+        background-color: white;
+        border-radius: 15px;
+    }
+
+    .All_book img {
+        height: 210px;
+        width: 148px;
+        margin-left: -3px;
+        cursor: pointer;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 8px;
+    }
+
+    .All_book h2 {
+        font-size: 1rem;
+        font-family: PTSerifItalic;
+        font-weight: 900;
+        margin-left: 0px;
+        width: 160px;
+        color: #7f4f24;
+    }
+
+    .All_book h4 {
+        font-size: 0.8rem;
+        font-family: RadioCanadaBigVariableFontwght;
+        font-weight: 700;
+        margin-left: 0px;
+        color: #7209b7;
+        cursor: pointer;
+    }
+
+    .All_book .fav {
+        margin-left: 60px;
+        margin-top: -70px;
+        border: none;
+        font-family: RadioCanadaBigVariableFontwght;
+        font-weight: 700;
+        font-size: 0.7rem;
+        background-image: url("../assets/icon/add.png");
+        background-repeat: no-repeat;
+        background-size: 18px;
+        background-position: 9px;
+        padding-left: 30px;
+        padding-top: -20px;
+        height: 30px;
+    }
+
+    .All_book .books_cart {
+        width: 140px;
+        height: 35px;
+        margin-left: -0px;
+        margin-top: -20px;
+        cursor: pointer;
+        font-family: RadioCanadaBigVariableFontwght;
+        font-weight: 700;
+        font-size: 0.8rem;
+        word-spacing: 4px;
+        color: #ae2012;
+        background-color: #fff;
+        border: 2px solid #f48c06;
+        padding-left: 25px;
+        background-image: url('../assets/icon/btn.png');
+        background-repeat: no-repeat;
+        background-size: 19px;
+        background-position: 8px;
+    }
+}
+@media all and (min-width:500px) and (max-width:850px)
+{
+
+}
+@media all and (min-width:850px) and (max-width:900px)
+{
+
+}
+@media all and (min-width:920px) and (max-width:1300px)
+{
+    
 }

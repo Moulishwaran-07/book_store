@@ -44,7 +44,7 @@ function Head() {
                     >
                     </input>
                     <button className="search"></button>
-                    <h6 className="sign_btn">SIGN IN</h6>
+                    {/* <h6 className="sign_btn">SIGN IN</h6> */}
                 </div>
                 <div className="nav">
                     <button onClick={Home} className="btn00">Home</button>

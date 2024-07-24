@@ -1,6 +1,4 @@
-
 import './Footer.css'
-
 import brand from '../assets/brand/icon.png'
 import { useNavigate } from "react-router-dom";
 
